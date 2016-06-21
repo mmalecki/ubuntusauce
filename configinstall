@@ -3,4 +3,4 @@
 sudo apt-get update -y
 
 # install packages I use
-sudo apt-get install -y base-devel whois dnsutils zsh strace chromium clang tcpdump ghc mosh nmap ctags rsync cmake mongodb bzr parallel mercurial gdb zip unzip docker imagemagick golang-go elasticsearch pv sysstat postgresql svn units socat ocaml
+sudo apt-get install -y whois dnsutils zsh strace chromium clang tcpdump ghc mosh nmap ctags rsync cmake mongodb bzr parallel mercurial gdb zip unzip docker imagemagick golang-go elasticsearch pv sysstat postgresql svn units socat ocaml
