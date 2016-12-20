@@ -3,4 +3,4 @@
 sudo apt-get update -y
 
 # install packages I use
-sudo apt-get install -y whois dnsutils zsh strace clang tcpdump ghc mosh nmap exuberant-ctags rsync cmake mongodb bzr parallel mercurial gdb zip unzip docker imagemagick golang-go pv sysstat subversion units socat ocaml python-software-properties software-properties-common apt-src ack-grep python-pip
+sudo apt-get install -y whois dnsutils zsh strace clang tcpdump ghc mosh nmap exuberant-ctags rsync cmake mongodb bzr parallel mercurial gdb zip unzip docker imagemagick golang-go pv sysstat subversion units socat ocaml python-software-properties software-properties-common apt-src ack-grep python-pip python-dev libssl-dev automake
