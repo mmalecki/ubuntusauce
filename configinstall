@@ -3,4 +3,4 @@
 sudo apt-get update -y
 
 # install packages I use
-sudo apt-get install -y curl whois dnsutils zsh strace clang tcpdump mosh nmap rsync cmake parallel gdb zip unzip docker.io imagemagick golang-1.17 pv sysstat units socat software-properties-common apt-src ack python3-pip python3-dev libssl-dev automake
+sudo apt-get install -y curl whois dnsutils zsh strace clang tcpdump mosh nmap rsync cmake parallel gdb zip unzip docker.io imagemagick golang-1.17 pv sysstat units socat software-properties-common apt-src ack python3-pip python3-dev libssl-dev automake keychain
